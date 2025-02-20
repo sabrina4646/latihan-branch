@@ -2,3 +2,4 @@
 Belajar GitHub di Dicoding itu seru!
 
 SQUASH AND CHANGES
+BISMILLAH BISA
